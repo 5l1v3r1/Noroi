@@ -11,7 +11,7 @@ Noroi is a simple "Polymorphic Decoder Generator" using a Hand-written contex-fr
 ##### TODO List :
 1. swap regs with XOR/ADD/SUB
 2. use CMOV/NOT/NEG/SHR/AND/OR/XOR/XCHG/XADD
-3. Indirect branches for anti.disassembly. eg JMP ECX
+3. Indirect branches for anti-disassembly. eg JMP ECX
 4. Hiding CFG by self-modifing
 5. SSE/FPU decryption routine
 6. XOR with MZ of nth module or any other fix data ( read PTR in shellcode detectors 7.31 ~= 19 )
