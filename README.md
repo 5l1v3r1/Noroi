@@ -25,7 +25,8 @@ Noroi is a simple "Polymorphic Decoder Generator" using a Hand-written contex-fr
     XOR REG, RANDOM_VALUE  
     PUSH REG  
     CALL ESP  
-    <REST OF CODE>  
+    <REST OF CODE>
+13. Undecidable
 
 ##### Test :
 I have tested Noroi with SkyLined's dl-loadlib in windows 7 x64 and it was working. current version only works on x86 systems ( not wow64 ), if you want to use it on a x64, remove the linse makred with "this one is for x86 only".  
