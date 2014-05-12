@@ -26,9 +26,10 @@ Noroi is a simple "Polymorphic Decoder Generator" using a Hand-written contex-fr
     PUSH REG  
     CALL ESP  
     <REST OF CODE>
-13. Undecidable
+13. Making it undecidable
+14. Random gap between GetPC sequence and other FIX sequence ( making Squence Alignment rate low )
 
 ##### Test :
-I have tested Noroi with SkyLined's dl-loadlib in windows 7 x64 and it was working. current version only works on x86 systems ( not wow64 ), if you want to use it on a x64, remove the linse makred with "this one is for x86 only".  
+I have tested Noroi with SkyLined's dl-loadlib in windows 7 x64 and it was working. current version only works on x86 systems ( not wow64 ), if you want to use it on a x64, remove the lines makred with "this one is for x86 only".  
 
 ###### /Shahriyar
